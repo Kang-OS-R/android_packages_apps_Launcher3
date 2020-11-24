@@ -73,4 +73,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
     <!-- Icon size -->
     <string name="icon_size_title">Icon size</string>
+
+    <!-- Change scrim alpha in all apps -->
+    <string name="all_apps_background_opacity_title">All apps background transparency</string>
+    <string name="all_apps_background_opacity_summary">Make the background transparent or fully opaque</string>
+
+
 </resources>
